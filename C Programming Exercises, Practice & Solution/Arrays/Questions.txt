@@ -1,0 +1,23 @@
+Arrays 1D in c
+-----------------------------
+1. WAP to read and print 1D Array.
+2. WAP to read marks of 5 students calculate sum & average using Array.
+3. WAP to read an Array of 10 integers and count total no of even and odd elements
+4. WAP to read two Array of size 5 and store sum of these Array into third Array.
+
+Arrays 2D in c
+-----------------------------
+1. WAP to read and print 2D Array (matrix) & calculate sum ......
+2. WAP that transpose a matrix.
+3. WAP that transpose a matrix and store in another matrix.
+4. WAP to print sum of individual rows and columns for a matrix. <- #TODO
+5. WAP program to print addition of 2 matrices.
+6. WAP program to print subtraction of 2 matrices.
+7. WAP program to print multiplication of 2 matrices.
+
+DSA
+=======================================================
+Operations on Arrays in Data Structure
+1. Traversal
+2. Insectionn at specific position.
+3. Deletion at specific position (ordered and unordered).
