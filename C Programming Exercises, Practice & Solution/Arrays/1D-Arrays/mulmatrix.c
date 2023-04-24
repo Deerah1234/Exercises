@@ -85,7 +85,7 @@ int main(void)
 
     // print arr3
     printf("\nThe multipliation is %dx%d", m, q);
-    printf("\n--------------------------\n");
+    printf("\n-----------------\n");
     for (i = 0; i < m; i++)
     {
         for (j = 0; j < q; j++)
@@ -94,5 +94,5 @@ int main(void)
         }
         printf("\n");
     }
-    return (0);
+    return 0;
 }
