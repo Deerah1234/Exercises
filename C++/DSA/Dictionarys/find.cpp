@@ -13,12 +13,10 @@ int main()
 	books["Last Sword"] = 1879;
 	books["Space Travel"] = 2017;
 
-	// empty()
-	// ====================================
-	// size()
-	// ====================================
-	// insert({key, value})
-	// =========================
-	// erase(Key)
-	// =========================
-	// find(Key)
+	/* NOTE - If the key not in dictionary. It returns map::end()
+			- Syntax: find(key);
+	*/
+
+	auto it = books.find("Solaria");
+	cout << it->first << ' ' << it->second << endl;
+}

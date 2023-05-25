@@ -13,12 +13,6 @@ int main()
 	books["Last Sword"] = 1879;
 	books["Space Travel"] = 2017;
 
-	// empty()
-	// ====================================
-	// size()
-	// ====================================
-	// insert({key, value})
-	// =========================
-	// erase(Key)
-	// =========================
-	// find(Key)
+	/* NOTE - size(): returns the size of the dictionary */
+	cout << "We have a total number of: " << books.size() << " books in the library." << endl;
+}
