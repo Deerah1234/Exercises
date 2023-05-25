@@ -4,7 +4,7 @@
 
 struct node
 {
-	int data;
+    int data;
     struct node *link;
 };
 
@@ -19,4 +19,6 @@ int main() {
  	struct node *current = (struct node *)malloc(sizeof(struct node));
 	current->data = 2;
 	current->link = NULL;
+	
+	head->link = current;
 }
