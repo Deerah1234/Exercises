@@ -1,0 +1,48 @@
+1. WAP that take three numbers and find the maximum(using nested if).
+2. WAP to check Weather a letter is Uppercase or lowercase(else if ladder).
+3. WAP to find the grade of students (marks > 80 - A, 70 - B, 60 - C, else D, Using Switch Statements).
+4. Program to make simple calculator using Switch.
+
+if-else
+1. Write a C Program to accept two integers and check Whether they are equal or not.
+    Test Data: 15 15
+    Expected Ouput:
+    Number1 and Number2 are equal
+
+2. Write a C Program to check Whether a given number is even or odd.
+    Test Data: 15
+    Expected Ouput:
+    15 is an odd integer
+
+3. Write a C Program to check Whether a given number is negative or positive.
+    Test Data: 15
+    Expected Ouput:
+    15 is a positive number
+
+4. Write a C Program to find Whether a given year is a leap year or not.
+    Test Data: 2016
+    Expected Ouput:
+    2016 is a leap year
+
+5. Write a C Program to read the age of a candidate and determine Whether it is eligible for casting his/her own vote.
+    Test Data: 21
+    Expected Ouput:
+    Congratulation! You are eligible for casting
+
+6. Write a C Program to read the value of an integer m and display the value of n, is 1 when m is larger than 0, o when m is 0 and -1 when m is less than 0.
+    Test Data: -5
+    Expected Ouput:
+    The value of n = -1
+
+7. Write a C Program to accept the height of a person in centimeter and categorize the person according to their height.
+    Test Data: 135
+    Expected Ouput:
+    The person is Dwarf.
+
+8. Write a C Program to find the largest of three numbers.
+    Test Data: 12 25 52
+    Expected Ouput:
+    1st Number: 12, 2nd Number = 25, 3rd Number = 52
+    The 3rd Number is the greatest among the three
+
+9. Write a C Program 

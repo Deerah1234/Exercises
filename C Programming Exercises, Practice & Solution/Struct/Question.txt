@@ -1,0 +1,4 @@
+1. Write a program to store and print the roll no.., name, age and the marks of a student using structures.
+2. Write a program to store the roll no. (starting from 1), name and age of 5 students and then print the details of the student with roll no. 2.
+3. Write a program to store and print the roll no., name, age, address and marks of 15 students using structures.
+4. Enter the marks of 5 students in Chemistry, Mathematics and Physics (each out of 100) using a structure named Marks having elements roll no., name, chem_marks, maths_marks and phy_marks and then display the percentage of each student.

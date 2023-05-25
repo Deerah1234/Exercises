@@ -1,0 +1,49 @@
+MileStone
+-> Weather Station
+1. Write a program that gets from the user a temperature
+("double") in Celsius Degrees.
+
+The program should calculate and convert the temperature
+from Celsius Degrees to Fahrenheit Degrees and print it.
+
+2. Write a program that gets from the user a temperature
+("double") in Fahrenheit Degrees
+
+The program should calculate and convert the temperature
+from Fahrenheit Degrees to Celsius Degrees and print it.
+
+3. Write a program that calculate and prints: Sn (sum of the sequence).
+
+4 Write a program that receives.
+    1. Salary (per hours)
+    2. Total hours worked ( in a month)
+The program should calculate and print othe total monthly Salary of the employee.
+=======================================================
+Swap
+1. WAP to swap two a = 10, b = 20 to a = 20, b = 10
+
+========================================================
+8.4 Average and Differences from Average
+Consider the problem of finding the average of a set of numbers (integers) and the amount by
+which each number differs from the average. In order to find the average, we need to know all the
+numbers. In Section 5.3.1, we saw how to find the average by reading and storing one number
+at a time. Each new number read replaced the previous one. At the end, we could calculate the
+average but we’ve lost all the numbers.
+Now, if we also want to know how much each number differs from the average, we would
+need to store the original numbers so that they are available after the average is calculated. We
+will store them in an array. The program will be based on the following assumptions:
+• No more than 100 numbers will be supplied; this information is needed to
+declare the size of the array;
+• The numbers will be terminated by 0; it is assumed that 0 is not one of the
+numbers.
+    Example:
+    Enter up to 100 numbers (end with 0)
+    2 7 5 3 0   
+    Numbers entered: 4
+    Sum of numbers: 17
+    The average is 4.25
+    Numbers and differences from average
+    2 -2.25
+    7 2.75
+    5 0.75
+    3 -1.25
